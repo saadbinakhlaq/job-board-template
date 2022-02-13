@@ -1188,6 +1188,13 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .bg-washed-green { background-color: #e8fdf5; }
 .bg-washed-yellow { background-color: #fffceb; }
 .bg-washed-red { background-color: #ffdfdf; }
+.bg-washed-peach { background-color: #faf4ef; }
+.bg-grey-peach { background-color: #faf4ef; }
+.bg-peach { background-color: #ffe0c9; }
+.bg-cinnamon { background-color: #c14700; }
+.bg-cinnamon-40 { background-color: rgba(193,71,0,0.4); }
+.bg-pistachio { background-color: #f3f8f0; }
+.bg-green-mist { background-color: #e5e7cd; }
 .bg-inherit { background-color: inherit; }
 /* 
   
