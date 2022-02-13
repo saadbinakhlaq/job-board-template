@@ -1131,6 +1131,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .washed-yellow { color: #fffceb; }
 .washed-red { color: #ffdfdf; }
 .color-inherit { color: inherit; }
+.cinnamin { color: #c14700; }
 /* Background colors */
 .bg-black-90 { background-color: rgba( 0, 0, 0, .9 ); }
 .bg-black-80 { background-color: rgba( 0, 0, 0, .8 ); }
